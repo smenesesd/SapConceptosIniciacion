@@ -4,7 +4,7 @@ En este repositorio estaré subiendo todo lo que vaya aprendiendo acerca de los 
 
 
 
-- **¿Que es ERP?**
+- **¿Qué es ERP?**
     
     (Enterprise Resource Planning) planificación de recursos empresariales 
     
@@ -15,7 +15,7 @@ En este repositorio estaré subiendo todo lo que vaya aprendiendo acerca de los 
     
     1. Información y alertas actualizadas
     2. Presentación visual de información (paneles)
-    3. Elección de implementación (nube, local o hybrida)
+    3. Elección de implementación (nube, local o híbrida)
     4. Procesos comerciales estándar y avanzados 
     5. Herramientas de configuración para procesos y usuarios incluidos clientes y servidores
     6. Integración con otras soluciones de software 
@@ -26,8 +26,8 @@ En este repositorio estaré subiendo todo lo que vaya aprendiendo acerca de los 
     **Beneficios ERP**
     
     1. Alta productividad
-    2. Conocimiento mas profundo 
-    3. Informacion acelerada 
+    2. Conocimiento más profundo 
+    3. Información acelerada 
     4. Menor riesgo 
-    5. TI mas simple 
+    5. TI más simple 
     6. Agilidad mejorada
