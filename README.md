@@ -36,6 +36,6 @@ En este repositorio estaré subiendo todo lo que vaya aprendiendo acerca de los 
     - Cloud (tarifa mensual o anual) altamente escalable (SAS)
     - On-premise
     - Hybrid
-    - ERP empresas pequeñas: Todas las herramientas para empresas pequeñas suelen estar en la nube, por ende, son rápidas y fáciles de instalar y están diseñadas para el crecimiento de los clientes
+- ERP empresas pequeñas: Todas las herramientas para empresas pequeñas suelen estar en la nube, por ende, son rápidas y fáciles de instalar y están diseñadas para       el crecimiento de los clientes
 - ERP empresas medianas: Análisis integrados e implementación rápida.  Ayuda a crecer a las empresas
 - ERP empresarial o globales: Integra tecnologías de la industria 4.0, libre implementación (nube, on-premise o hybrid)
