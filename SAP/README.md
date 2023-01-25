@@ -35,4 +35,11 @@
     - Pequeña = SAP Business One
     - Mediana = SAP Business ByDesign
     - Grande = SAP S/4 HANA
-- SAP Business One = es una solucion integrable, modular y personalizable
+    
+ - SAP Business One = es una solucion integrable, modular y personalizable, ofrece a los clientes una forma asequible de gestionar sus negocios, está diseñada para       empresas pequeñas.
+    - Abarca temas como: ventas, finanzas, operaciones, compras e inventarios hasta informes y análisis de los datos
+    - Tendrás control de la creación de bases de datos de los clientes y optimización de compras e inventario, claridad en los procesos de control y distribución y una    visión del negocio aplicando inteligencia empresarial, para los análisis e informes actualizados
+    - Se puede implementar on premise, cloud o mobile
+    - Sap business one se ejecuta en plataformas como los son:
+        - SAP HANA
+        - Microsoft SQL server
