@@ -52,3 +52,4 @@
     - Solo funciona en SAP HANA, SAP s4 hana es la abreviación de SAP Business Suite for HANA
     - Es ideal cuando los requisitos de la empresa son muy específicos y también su infraestructura de TI es muy especifica
     - A partir del 2025 se dejará de actualizar y dar soporte a las soluciones de SAP R3 y SAP ECC
+    - SAP quiso ser su propio proveedor de base de datos, creando así SAP HANA
