@@ -25,3 +25,14 @@
 - Industrias discretas
 - Servicios financieros
 - Servicios públicos
+
+## Soluciones SAP (Empresas inteligentes)
+- SAP utiliza un conjunto de soluciones empresariales conectadas en áreas como experiencia del        cliente, gestión de personas, finanzas, ventas, marketing y gestión de datos.
+- Se integran los procesos a las nuevas tecnologías, como inteligencia artificial, IOT y machine      learning
+- Le apuestan a la transformación digital
+- SAP ofrece una alta gama de productos escalables, configurables y modulares
+- En la actualidad SAP presenta las siguientes soluciones, basándose en el tamaño y crecimiento de    las empresas.
+    - Pequeña = SAP Business One
+    - Mediana = SAP Business ByDesign
+    - Grande = SAP S/4 HANA
+- SAP Business One = es una solucion integrable, modular y personalizable
