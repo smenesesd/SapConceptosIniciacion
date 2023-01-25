@@ -43,3 +43,12 @@
     - Sap business one se ejecuta en plataformas como los son:
         - SAP HANA
         - Microsoft SQL server
+
+- SAP Business ByDesign = Esta solucion les ofrece a las empresas de rápido crecimiento PIMES, la plataforma para convertir este crecimiento potencial en resultados      reales
+    - Es la solución ERP en la nube de SAP para las empresas medianas que no utilizan software empresarial integrado
+    - Es una solución dinámica y configurable que está diseñada a escala y conecta todas las funciones empresariales
+- SAP S/4 HANA = Es el más reciente desarrollo de SAP ERP, es la generación de business suite para medianas y grandes empresas, se crea basado en sus antecesores SAP R3   o SAP business all in one  y SAP ECC
+    - Se puede contratar como una solucion en la nube, on premise o hybrid
+    - Solo funciona en SAP HANA, SAP s4 hana es la abreviación de SAP Business Suite for HANA
+    - Es ideal cuando los requisitos de la empresa son muy específicos y también su infraestructura de TI es muy especifica
+    - A partir del 2025 se dejará de actualizar y dar soporte a las soluciones de SAP R3 y SAP ECC
