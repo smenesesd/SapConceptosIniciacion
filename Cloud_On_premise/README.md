@@ -12,3 +12,6 @@
     - Alto coste de hardware
     - Coste medio de las copias de seguridad
     - Alto coste de mantenimiento
+
+### Cloud y On-premise para SAP S/4HANA
+- Encontraras acerca de esto en la carpeta de img
