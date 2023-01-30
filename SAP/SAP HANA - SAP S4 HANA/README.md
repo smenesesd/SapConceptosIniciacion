@@ -9,3 +9,5 @@
     - procesamiento transaccional/analítico hibrido (HTAP) con amplios análisis avanzados en tiempo real
     - Seguro y listo para el futuro
     - Nube hibrida y multi-nube
+
+    SAP S/4HANA: Esta es la suite de negocio de SAP, su objetivo es remplazar SAP ECC, siendo una herramienta simplificada, diseñada específicamente para trabajar con SAP HANA, es definida como la próxima generacion de ERP, ya que elimina las complejidades de las bases de datos de ERP de terceros ofreciendo un núcleo digital muy simplificado con acceso en tiempo real a datos críticos para las empresas 
